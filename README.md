@@ -2,7 +2,8 @@
 > Legal and Governance for Adaptive Intelligence Circle
 ----
 ## Definition 
-AIC-Legal is a crucial part of the campaign to protect the project from political forces. This archive emphasizes transparency, security, and demilitarization. We are committed to ensuring that all claims, sharing, or accusations respect the principles that I (Nguyen Duc Tri) and Open Collective established from the beginning, specifically in April 2025.
+
+> AIC-Legal is a crucial part of the campaign to protect the project from political forces. This archive emphasizes transparency, security, and demilitarization. We are committed to ensuring that all claims, sharing, or accusations respect the principles that I (Nguyen Duc Tri) and Open Collective established from the beginning, specifically in April 2025.
 ---- 
 
 ## Structure
