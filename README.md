@@ -1,5 +1,8 @@
 # AIC-Legal
 > Legal and Governance for Adaptive Intelligence Circle
+
+**Official Legal, Governance and Transparency Repository** of  
+**Adaptive Intelligence Circle (AIC) & Human Meaning Network (HMN)**
 ----
 ## Definition 
 
@@ -28,5 +31,26 @@ AIC-Legal-and-Governance/
 │   └── CHANGELOG.md                   ← Nhật ký thay đổi chính sách
 └── CONTACT.md                         ← Cách liên hệ pháp lý (Open Collective)
 ```
+---- 
+**Core Principles (non-negotiable):**
+- Open Source under GPLv3.0
+- Non-Profit
+- Zero-Donation absolute
+- Third Path absolute (independent from governments, corporations, and any political bloc)
+- Ethical-from-Kernel
+
+**Purpose of this repo:**
+- Protect the long-term integrity and transparency of the project
+- Provide clear legal and ethical guidelines for all contributors, forks, and external parties
+- Serve as the formal record during the Founder’s mandatory military service (2027–2029) and beyond
+
+All documents here are binding and publicly auditable.
+
+**Maintained by:** Nguyễn Đức Trí (Founder & Architect)  
+**Fiscal Sponsor:** Open Collective – Adaptive Intelligence Circle
+
+Last updated: April 2026
+
+---- 
 ## License 
 The organization is under GPL-3.0 License.
