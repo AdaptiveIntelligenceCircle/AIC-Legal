@@ -3,6 +3,11 @@
 
 **Official Legal, Governance and Transparency Repository** of  
 **Adaptive Intelligence Circle (AIC) & Human Meaning Network (HMN)**
+
+<p align="center">
+  <img src="assets/org.png" alt="AIC Logo" width="1024" length = "1024"/>
+</p>
+
 ----
 ## Definition 
 
