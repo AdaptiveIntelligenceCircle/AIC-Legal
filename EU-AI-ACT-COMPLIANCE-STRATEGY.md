@@ -37,7 +37,7 @@ AIC adopts a **minimal yet transparent compliance** approach:
    - Technical documentation, risk assessments, and conformity processes will be made available via GitHub.
 
 2. **Human Oversight & Ethical Safeguards**  
-   - Maintain **Introspective Behavioral Control System (IBCS)** as the ethical core.  
+   - Maintain **Introspective Behavioral Compiler System (IBCS)** as the ethical core.  
    - Implement mandatory human-in-the-loop for critical decisions where required by the Act.
 
 3. **Research-Oriented Development**  
