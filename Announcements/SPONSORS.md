@@ -1,4 +1,4 @@
-# Sponsors
+# Sponsors - Update 9/2026
 
 We sincerely thank all individuals and organizations who have partnered with **AIC - Adaptive Intelligence Circle**.
 
@@ -24,7 +24,7 @@ We highly value contributions of intellect and time:
 - Design, translation, infrastructure support
 - In-depth ideas and feedback
 
-**2. GitHub Sponsors** You can provide small, transparent financial support through GitHub Sponsors.
+**2. Open Collective** You can provide small, transparent financial support through Open Collective.
 
 All grants are fully disclosed on [Open Collective](https://opencollective.com/adaptive-intelligence-circle) and GitHub.
 
