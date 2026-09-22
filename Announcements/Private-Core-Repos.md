@@ -2,7 +2,6 @@
 
 To protect the intellectual core of the project during the Founder’s upcoming mandatory military service (expected 2027–2029), the following repositories have been set to Private:
 
-- **IBCS**
 - **AIC-SSI**
 - **AIC-quantum**
 - **AIC-Recovery**
