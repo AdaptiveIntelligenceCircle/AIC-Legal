@@ -65,6 +65,16 @@ For any EU AI Act-related inquiries:
 - Primary contact: Nguyễn Đức Trí (Founder)  
 - Channel: Open Collective (once fiscal hosting is active) or GitHub Issues in this repository.
 
+## 6. Updates (11/2026)
+
+EU & Estonia Legal Environment Update (November 2026) EU AI Act after Digital Omnibus (Regulation (EU) 2026/1744)
+
+The amended AI Act regulations came into effect on July 27, 2026. Obligations for high-risk AI systems (Annex III) have been postponed to December 2, 2027; for systems attached to physical products (Annex I), to August 2, 2028. The transparency obligation under Article 50 (marking AI-generated content) has been in effect since August 2, 2026. The grace period marking the end of previously marketed systems is December 2, 2026. From this same date, two new bans related to creating or editing intimate images/videos without consent and child abuse content officially come into effect. The AI ​​Office has increased its oversight authority over certain systems based on general-purpose AI models and systems integrated into very large platforms. Estonia – Accountability Framework for AI Agents
+
+In early November 2026, the Estonian government announced it is developing a legal framework for AI agents, focusing on three elements: clear permissions, action logs, and accountability. This is a continuation of the e-Estonia model, emphasizing traceability and control. The broader Digital Omnibus trend:
+
+The EU Council has agreed on a negotiating position to simplify certain regulations related to data protection, privacy, and cybersecurity incident reporting. The main goal is to reduce the administrative burden while maintaining core protections. This process is still ongoing with the European Parliament.
+
 ---
 
 **Adaptive Intelligence Circle** remains committed to building ethical intelligence infrastructure that serves humanity — independently, transparently, and without compromise.
